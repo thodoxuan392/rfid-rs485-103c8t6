@@ -1,0 +1,9 @@
+[submodule "Lib/HX711"]
+	path = Lib/HX711
+	url = git@github.com:RobTillaart/HX711.git
+[submodule "Lib/utils"]
+	path = Lib/utils
+	url = git@github.com:thodoxuan392/utils.github
+[submodule "Lib/PN532"]
+	path = Lib/PN532
+	url = git@github.com:thodoxuan392/Adafruit-PN532.git

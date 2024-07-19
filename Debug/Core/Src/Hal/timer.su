@@ -1,0 +1,4 @@
+../Core/Src/Hal/timer.c:32:6:TIMER_init	32	static
+../Core/Src/Hal/timer.c:58:6:TIMER_attach_intr_1ms	16	static
+../Core/Src/Hal/timer.c:66:6:HAL_TIM_PeriodElapsedCallback	24	static
+../Core/Src/Hal/timer.c:74:6:TIMER_test	8	static

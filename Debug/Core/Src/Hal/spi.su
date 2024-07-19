@@ -1,0 +1,6 @@
+../Core/Src/Hal/spi.c:33:6:SPI_init	16	static
+../Core/Src/Hal/spi.c:44:6:SPI_transmit	24	static
+../Core/Src/Hal/spi.c:51:6:SPI_transmitAndReceive	32	static
+../Core/Src/Hal/spi.c:60:6:SPI_select	16	static
+../Core/Src/Hal/spi.c:64:6:SPI_deselect	16	static
+../Core/Src/Hal/spi.c:67:6:SPI_test	16	static
