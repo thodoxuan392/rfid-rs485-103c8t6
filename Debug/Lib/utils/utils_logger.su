@@ -1,0 +1,5 @@
+../Lib/utils/utils_logger.c:38:15:level_to_color	16	static
+../Lib/utils/utils_logger.c:42:15:level_to_str	16	static
+../Lib/utils/utils_logger.c:47:6:utils_log_init	16	static
+../Lib/utils/utils_logger.c:52:6:utils_log_log	68	static
+../Lib/utils/utils_logger.c:64:6:utils_log_raw	16	static

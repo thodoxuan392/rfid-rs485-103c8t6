@@ -1,0 +1,5 @@
+../Core/Src/Hal/clock.c:10:6:CLOCK_init	72	static
+../Core/Src/Hal/clock.c:45:10:CLOCK_getTick	8	static
+../Core/Src/Hal/clock.c:48:6:CLOCK_delayMs	16	static
+../Core/Src/Hal/clock.c:51:6:CLOCK_delayUs	24	static
+../Core/Src/Hal/clock.c:56:6:CLOCK_test	8	static

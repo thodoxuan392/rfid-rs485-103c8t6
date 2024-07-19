@@ -1,0 +1,8 @@
+../Core/Src/App/commandhandler.c:45:6:COMMANDHANDLER_init	4	static
+../Core/Src/App/commandhandler.c:47:6:COMMANDHANDLER_deinit	4	static
+../Core/Src/App/commandhandler.c:49:6:COMMANDHANDLER_run	8	static
+../Core/Src/App/commandhandler.c:68:13:COMMANDHANDLER_isRs485MessageValid	24	static
+../Core/Src/App/commandhandler.c:82:13:COMMANDHANDLER_handleRequestRFIDStatus	40	static
+../Core/Src/App/commandhandler.c:93:13:COMMANDHANDLER_handleRequestRFIDUpdate	40	static
+../Core/Src/App/commandhandler.c:113:13:COMMANDHANDLER_sendRFIDStatusResponse	288	static
+../Core/Src/App/commandhandler.c:138:13:COMMANDHANDLER_sendRFIDUpdateResponse	280	static

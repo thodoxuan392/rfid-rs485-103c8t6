@@ -1,0 +1,8 @@
+../Core/Src/Device/loadcell.cpp:30:6:void LOADCELL_init()	16	static
+../Core/Src/Device/loadcell.cpp:39:7:float LOADCELL_get()	8	static
+../Core/Src/Device/loadcell.cpp:43:6:void LOADCELL_writeIo(uint8_t, uint8_t)	16	static
+../Core/Src/Device/loadcell.cpp:47:9:uint8_t LOADCELL_readIo(uint8_t)	24	static
+../Core/Src/Device/loadcell.cpp:52:6:void LOADCELL_test()	16	static
+../Core/Src/Device/loadcell.cpp:62:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/Device/loadcell.cpp:62:1:cpp)	8	static
+../Core/Src/Device/loadcell.cpp:62:1:cpp)	8	static
